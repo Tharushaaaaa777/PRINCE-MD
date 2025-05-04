@@ -27,9 +27,9 @@ MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://i.ibb.co/rGBWpw4p/5708.jp
 // add custom menu and mention reply image url
 PREFIX: process.env.PREFIX || ".",
 // add your prifix for bot  
-REPONAME: process.env.REPONAME || "",
+REPONAME: process.env.REPONAME || "https://github.com/Tharushaaaaa777/PRINCE-MD",
 // add your repo name 
-WHATSAPPCHANNEL: process.env.WHATSAPPCHANNEL || "",
+WHATSAPPCHANNEL: process.env.WHATSAPPCHANNEL || "https://whatsapp.com/channel/0029VaxOi76K5cDJkV9UYR0Q",
 // add your ehatsapp channel url
 BOT_NAME: process.env.BOT_NAME || "PRINCE-MD",
 // add bot namw here for menu
